@@ -1,17 +1,17 @@
 # AusAppGit
 ### (or the person who cannot think of a cool name to obscure his identity)
 - - - -
-- 👋 Hi, I’m @AusAppGit and welcome to some information about me
-- 👀 I’m interested in a great many things, ranging from art, music, programming to extreme sports and thinking (the most extreme of sports!)
-- 🌱 I’m currently (re)learning my way through some programming languages: Java, C#, Python, (and I'd like to spend more time with Kotlin)
-- 👷‍♂️ I’m looking to collaborate on mostly creative projects, you can be quite free with the meaning
+- 👋 Hi, I’m __@AusAppGit__ and welcome to some information about me
+- 👀 I’m interested in a great many things, ranging from __art__, music, __programming__ to extreme sports and __thinking__ #### (the most extreme of sports!)
+- 🌱 I’m currently (re)learning my way through some __programming languages__: __Java__, __C#__, __Python__, (and I'd like to spend more time with __Kotlin__)
+- 👷‍♂️ I’m looking to __collaborate__ on mostly creative projects, you can be quite free with the meaning __(feel free to contact)__
 - 📫 How to reach me: through here preferably (I like to keep my web-presence to a minimum)
 - 😄 Pronouns: he/him
-- 🗣️ Languages: English (Native), German, Spanish
-- 👨‍🎓 Education: Bachelor Electronic Arts from the University Western Sydney
-- ⚡ Fun fact: I love to learn, doesn't really matter what because I find that any kind of knowledge tends to broaden one's experience and reference for future problem solving.
+- 🗣️ Languages: __English__ (Native), __German__, __Spanish__
+- 👨‍🎓 Education: __Bachelor Electronic Arts__ from the __University Western Sydney__
+- ⚡ Fun fact: __I love to learn__, doesn't really matter what because I find that any kind of knowledge tends to broaden one's experience and reference for future problem solving.
   Ok, that wasn't fun... (suggestions welcome)
-- 🤔 Any questions?  Feel free to ask
+- 🤔 Any questions?  __Feel free to ask__
 
 <!---
 AusAppGit/AusAppGit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
